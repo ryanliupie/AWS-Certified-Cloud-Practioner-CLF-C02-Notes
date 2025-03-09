@@ -9,3 +9,9 @@
 <p> 
     These are a tiny bit more in depth as the (CCP) does not ask complex questions compared to the Solutions Architect Associate (SAA) to my knowledge. However, it is still great to understand deeper concepts as you may have to apply them at your company. 
 </p>
+
+<hr>
+
+## 📝
+
+- <h3><a href ="Markdown/overview.md">Notes</a></h3>
