@@ -1,4 +1,4 @@
-# AWS-Certified-Cloud-Practioner--CLF-C02
+# AWS-Certified-Cloud-Practioner-CLF-C02
 
 <hr>
 
