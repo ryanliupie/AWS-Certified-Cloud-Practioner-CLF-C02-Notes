@@ -1,4 +1,4 @@
-<img src="/aws_notes/aws1.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws1.1.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws2.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws3.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws4.jpg" alt = "AWS-CCP-Notes" width = "800px">
