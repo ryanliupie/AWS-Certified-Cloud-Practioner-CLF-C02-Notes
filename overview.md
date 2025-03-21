@@ -6,8 +6,8 @@
 <img src="/aws_notes/aws6.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws7.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws8.jpg" alt = "AWS-CCP-Notes" width = "800px">
-<img src="/aws_notes/aws9.jpg" alt = "AWS-CCP-Notes" width = "800px">
-<img src="/aws_notes/aws10.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws9.9.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws10.10.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws11.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws12.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws13.jpg" alt = "AWS-CCP-Notes" width = "800px">
