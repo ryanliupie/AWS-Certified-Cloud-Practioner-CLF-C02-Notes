@@ -44,4 +44,12 @@
 <img src="/aws_notes/aws44.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws45.jpg" alt = "AWS-CCP-Notes" width = "800px">
 <img src="/aws_notes/aws46.jpg" alt = "AWS-CCP-Notes" width = "800px">
-<img src="/aws_notes/aws47.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws47.1.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws48.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws49.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws50.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws51.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws52.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws53.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws54.jpg" alt = "AWS-CCP-Notes" width = "800px">
+<img src="/aws_notes/aws55.jpg" alt = "AWS-CCP-Notes" width = "800px">
